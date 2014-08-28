@@ -40,6 +40,12 @@ For any support or queries regarding AxSU3D please visit our forums at http://fo
 
 You can email your suggestions about AxSU3D at feedback@axsu3d.com
 
+::Usage::
+We've made this plugin as easy to use as possible. Just download the unitypackage, 
+import into a project and go through the demo scenes. We also have a bunch of tutorials
+for each module here http://axsu3d.com/tutorials/
+
+
 Axiom Studios is an Independant Game Development studio from India.
 We specialize in mobile platforms, and we're making plugins to help 
 developers an easy way to add native functionality to their games.
